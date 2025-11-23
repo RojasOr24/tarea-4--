@@ -1,962 +1,164 @@
-[{
-  "_id": {
-    "$oid": "6923212030636ae278f43151"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "master's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 90,
-  "reading score": 95,
-  "writing score": 93
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43155"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 88,
-  "reading score": 95,
-  "writing score": 92
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43187"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 82,
-  "reading score": 85,
-  "writing score": 86
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f431b5"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 85,
-  "reading score": 91,
-  "writing score": 89
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f431b9"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "master's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 87,
-  "reading score": 100,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f431c1"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "bachelor's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 99,
-  "reading score": 100,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f431c9"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 88,
-  "reading score": 93,
-  "writing score": 93
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f431cc"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "high school",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 87,
-  "reading score": 95,
-  "writing score": 86
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f431f3"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "master's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 81,
-  "reading score": 92,
-  "writing score": 91
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f431f4"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "bachelor's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 96,
-  "reading score": 100,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f431fe"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "master's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 81,
-  "reading score": 91,
-  "writing score": 87
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43202"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "some high school",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 97,
-  "reading score": 100,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43227"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "associate's degree",
-  "lunch": "free/reduced",
-  "test preparation course": "completed",
-  "math score": 83,
-  "reading score": 86,
-  "writing score": 88
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43234"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 88,
-  "reading score": 95,
-  "writing score": 94
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43240"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "bachelor's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 80,
-  "reading score": 83,
-  "writing score": 83
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43256"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "high school",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 99,
-  "reading score": 93,
-  "writing score": 90
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f4325b"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 88,
-  "reading score": 92,
-  "writing score": 95
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43263"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "some high school",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 85,
-  "reading score": 92,
-  "writing score": 93
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43294"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 82,
-  "reading score": 90,
-  "writing score": 94
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f4329d"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "bachelor's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 83,
-  "reading score": 93,
-  "writing score": 95
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f432b6"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 80,
-  "reading score": 90,
-  "writing score": 89
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f432c4"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 82,
-  "reading score": 97,
-  "writing score": 96
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f432c7"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "some high school",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 80,
-  "reading score": 90,
-  "writing score": 82
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f432c8"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "master's degree",
-  "lunch": "free/reduced",
-  "test preparation course": "completed",
-  "math score": 85,
-  "reading score": 95,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f432cb"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 80,
-  "reading score": 86,
-  "writing score": 83
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f432dc"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 85,
-  "reading score": 89,
-  "writing score": 95
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f432e2"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "high school",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 88,
-  "reading score": 99,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f432e6"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 82,
-  "reading score": 80,
-  "writing score": 77
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f432f3"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "associate's degree",
-  "lunch": "free/reduced",
-  "test preparation course": "completed",
-  "math score": 82,
-  "reading score": 93,
-  "writing score": 93
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43312"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 100,
-  "reading score": 92,
-  "writing score": 97
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43319"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "bachelor's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 100,
-  "reading score": 100,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43320"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 84,
-  "reading score": 87,
-  "writing score": 91
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43325"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 83,
-  "reading score": 85,
-  "writing score": 90
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43329"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 90,
-  "reading score": 90,
-  "writing score": 91
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f4333b"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 83,
-  "reading score": 83,
-  "writing score": 90
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f4333c"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "bachelor's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 81,
-  "reading score": 88,
-  "writing score": 90
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43344"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 94,
-  "reading score": 87,
-  "writing score": 92
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43346"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 95,
-  "reading score": 89,
-  "writing score": 92
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43348"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "some high school",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 82,
-  "reading score": 82,
-  "writing score": 80
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f4334c"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "bachelor's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 86,
-  "reading score": 92,
-  "writing score": 87
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43358"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 91,
-  "reading score": 86,
-  "writing score": 84
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f4336d"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 81,
-  "reading score": 77,
-  "writing score": 79
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f4336e"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 82,
-  "reading score": 95,
-  "writing score": 89
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43371"
-  },
-  "gender": "female",
-  "race/ethnicity": "group A",
-  "parental level of education": "some high school",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 92,
-  "reading score": 100,
-  "writing score": 97
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43385"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "bachelor's degree",
-  "lunch": "free/reduced",
-  "test preparation course": "completed",
-  "math score": 92,
-  "reading score": 100,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43390"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "high school",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 81,
-  "reading score": 91,
-  "writing score": 89
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43393"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "some high school",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 81,
-  "reading score": 97,
-  "writing score": 96
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f433a1"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "bachelor's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 92,
-  "reading score": 100,
-  "writing score": 99
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f433ad"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 85,
-  "reading score": 84,
-  "writing score": 82
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f433b5"
-  },
-  "gender": "female",
-  "race/ethnicity": "group A",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 82,
-  "reading score": 93,
-  "writing score": 93
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f433cc"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "some high school",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 80,
-  "reading score": 92,
-  "writing score": 88
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f433db"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 85,
-  "reading score": 86,
-  "writing score": 98
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f433fc"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "master's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 94,
-  "reading score": 99,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43416"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "some high school",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 80,
-  "reading score": 85,
-  "writing score": 85
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43417"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 98,
-  "reading score": 100,
-  "writing score": 99
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f4341c"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 96,
-  "reading score": 96,
-  "writing score": 99
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f4342b"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 87,
-  "reading score": 89,
-  "writing score": 94
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43435"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "high school",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 81,
-  "reading score": 84,
-  "writing score": 82
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43442"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 84,
-  "reading score": 95,
-  "writing score": 92
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43471"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 87,
-  "reading score": 94,
-  "writing score": 95
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43472"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 82,
-  "reading score": 85,
-  "writing score": 87
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43483"
-  },
-  "gender": "female",
-  "race/ethnicity": "group A",
-  "parental level of education": "some high school",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 85,
-  "reading score": 90,
-  "writing score": 92
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f434a3"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 87,
-  "reading score": 85,
-  "writing score": 93
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f434a6"
-  },
-  "gender": "female",
-  "race/ethnicity": "group B",
-  "parental level of education": "bachelor's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 97,
-  "reading score": 97,
-  "writing score": 96
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f434ac"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "master's degree",
-  "lunch": "free/reduced",
-  "test preparation course": "none",
-  "math score": 81,
-  "reading score": 86,
-  "writing score": 87
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f434c5"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 93,
-  "reading score": 100,
-  "writing score": 95
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f434c9"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "some college",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 86,
-  "reading score": 85,
-  "writing score": 91
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f434ca"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 85,
-  "reading score": 92,
-  "writing score": 85
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f434d6"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "bachelor's degree",
-  "lunch": "free/reduced",
-  "test preparation course": "completed",
-  "math score": 93,
-  "reading score": 100,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f4350c"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "master's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 92,
-  "reading score": 100,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43511"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 100,
-  "reading score": 100,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43519"
-  },
-  "gender": "female",
-  "race/ethnicity": "group D",
-  "parental level of education": "bachelor's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 89,
-  "reading score": 100,
-  "writing score": 100
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43522"
-  },
-  "gender": "female",
-  "race/ethnicity": "group C",
-  "parental level of education": "associate's degree",
-  "lunch": "standard",
-  "test preparation course": "none",
-  "math score": 91,
-  "reading score": 95,
-  "writing score": 94
-},
-{
-  "_id": {
-    "$oid": "6923212030636ae278f43532"
-  },
-  "gender": "female",
-  "race/ethnicity": "group E",
-  "parental level of education": "master's degree",
-  "lunch": "standard",
-  "test preparation course": "completed",
-  "math score": 88,
-  "reading score": 99,
-  "writing score": 95
-}]
+mongoimport --db colegio --collection students --type csv --headerline --file StudentsPerformance.csv
+
+// Seleccionar base de datos
+use colegio;
+
+/* -----------------------------------------------------------
+   1. INSERCIÓN DE DOCUMENTOS
+----------------------------------------------------------- */
+db.students.insertOne({
+    gender: "female",
+    race_ethnicity: "group B",
+    parental_level_of_education: "bachelor's degree",
+    lunch: "standard",
+    test_preparation_course: "completed",
+    math_score: 88,
+    reading_score: 92,
+    writing_score: 90
+});
+
+db.students.insertMany([
+    {
+        gender: "male",
+        race_ethnicity: "group C",
+        parental_level_of_education: "some college",
+        lunch: "free/reduced",
+        test_preparation_course: "none",
+        math_score: 70,
+        reading_score: 65,
+        writing_score: 68
+    },
+    {
+        gender: "female",
+        race_ethnicity: "group A",
+        parental_level_of_education: "high school",
+        lunch: "standard",
+        test_preparation_course: "completed",
+        math_score: 95,
+        reading_score: 96,
+        writing_score: 97
+    }
+]);
+/* -----------------------------------------------------------
+   2. SELECCIÓN BÁSICA (FIND)
+----------------------------------------------------------- */
+
+// Mostrar todos los documentos
+db.students.find();
+
+// Mostrar solo 5 documentos
+db.students.find().limit(5);
+
+// Seleccionar por condición
+db.students.find({ gender: "female" });
+
+// Seleccionar campos específicos
+db.students.find(
+    { gender: "male" },
+    { gender: 1, math_score: 1, _id: 0 }
+);
+
+/* -----------------------------------------------------------
+   3. CONSULTAS CON FILTROS Y OPERADORES
+----------------------------------------------------------- */
+
+// Mayor que
+db.students.find({ math_score: { $gt: 80 } });
+
+// Entre dos valores
+db.students.find({
+    reading_score: { $gte: 70, $lte: 90 }
+});
+
+// Operador lógico AND
+db.students.find({
+    $and: [
+        { gender: "female" },
+        { writing_score: { $gt: 85 } }
+    ]
+});
+
+// Operador OR
+db.students.find({
+    $or: [
+        { lunch: "free/reduced" },
+        { test_preparation_course: "completed" }
+    ]
+});
+
+// IN
+db.students.find({
+    race_ethnicity: { $in: ["group A", "group B"] }
+});
+
+/* -----------------------------------------------------------
+   4. ACTUALIZACIÓN DE DOCUMENTOS
+----------------------------------------------------------- */
+
+// Actualizar un documento
+db.students.updateOne(
+    { gender: "male", math_score: 70 },
+    { $set: { math_score: 75 } }
+);
+
+// Actualizar varios
+db.students.updateMany(
+    { lunch: "free/reduced" },
+    { $set: { lunch: "subsidized" } }
+);
+
+/* -----------------------------------------------------------
+   5. ELIMINACIÓN DE DOCUMENTOS
+----------------------------------------------------------- */
+
+db.students.deleteOne({ math_score: 75 });
+
+db.students.deleteMany({ test_preparation_course: "none" });
+
+/* -----------------------------------------------------------
+   6. AGREGACIONES (COUNT, SUM, AVG)
+----------------------------------------------------------- */
+
+// Contar documentos
+db.students.aggregate([
+    { $count: "total_estudiantes" }
+]);
+
+// Promedio de matemáticas
+db.students.aggregate([
+    { $group: { _id: null, promedio_matematicas: { $avg: "$math_score" } } }
+]);
+
+// Promedio por género
+db.students.aggregate([
+    { $group: { _id: "$gender", promedio_writing: { $avg: "$writing_score" } } }
+]);
+
+// Suma total del puntaje (math + reading + writing)
+db.students.aggregate([
+    {
+        $project: {
+            total_score: {
+                $add: ["$math_score", "$reading_score", "$writing_score"]
+            }
+        }
+    }
+]);
+
+// Conteo por nivel educativo de los padres
+db.students.aggregate([
+    { $group: { _id: "$parental_level_of_education", cantidad: { $sum: 1 } } }
+]);
+
+// Máximo y mínimo de lectura
+db.students.aggregate([
+    {
+        $group: {
+            _id: null,
+            max_reading: { $max: "$reading_score" },
+            min_reading: { $min: "$reading_score" }
+        }
+    }
+]);
+
+
