@@ -144,21 +144,17 @@ db.students.aggregate([
         }
     }
 ]);
+//consultas de agregación 
+{
+  "mathScoreNum": { "$toInt": "$math score" }
+}
+{
+  "_id": null,
+  "totalMathScore": { "$sum": "$mathScoreNum" }
+}
+Resultado:
+_id: null
+totalMathScore: 66021
 
-// Conteo por nivel educativo de los padres
-db.students.aggregate([
-    { $group: { _id: "$parental_level_of_education", cantidad: { $sum: 1 } } }
-]);
-
-// Máximo y mínimo de lectura
-db.students.aggregate([
-    {
-        $group: {
-            _id: null,
-            max_reading: { $max: "$reading_score" },
-            min_reading: { $min: "$reading_score" }
-        }
-    }
-]);
 
 
